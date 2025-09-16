@@ -153,17 +153,21 @@ flask
 
 ---
 
+
 📸 Screenshots
 
 (
 
-![Distribution of Diagnosis Plot](https://drive.google.com/file/d/1JzQqSCkbKr4a4uJWD-anJI61K9kcojek/view?usp=drivesdk)  
- 
-![Flask App](https://drive.google.com/file/d/1nGSigYKQ7B090mRO-yd3L2qU1pF3xwFU/view?usp=drivesdk)
-
-![Flask App](https://drive.google.com/file/d/10FVcvBcqo6HIgbs64kIvHYdMb7foK5tY/view?usp=drivesdk)
+![Distribution of Diagnosis](<img width="741" height="590" alt="Screenshot 2025-09-17 020057" src="https://github.com/user-attachments/assets/96005396-2bce-4a99-9f8f-15d91bb21ab0" />)
 
 
+![Flask App](<img width="1302" height="880" alt="Screenshot 2025-09-17 022204" src="https://github.com/user-attachments/assets/a55cbed1-c44c-4240-8db7-d309722b45cf" />)
+
+
+
+![Flask App](<img width="1284" height="861" alt="Screenshot 2025-09-17 022304" src="https://github.com/user-attachments/assets/87caeef1-dedc-419d-88f6-60726c2f1afa" />)
+
+)
 ---
 
 ✨ Future Work
